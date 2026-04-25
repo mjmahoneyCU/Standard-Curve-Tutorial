@@ -74,7 +74,7 @@ st.markdown("""
 Enter the absorbance you measured for each Red 40 standard at **510 nm**. The standard concentrations are pre-filled based on the Day 1 dilution series.
 """)
 
-default_concs = [1700.0, 850.0, 425.0, 212.5, 106.25, 53.13, 26.56, 13.28, 0.0]
+default_concs = [2000.0, 1000.0, 500.0, 250.0, 125.0, 62.5, 31.25, 15.6, 0.0]
 labels = ["ST1", "ST2", "ST3", "ST4", "ST5", "ST6", "ST7", "ST8", "Blank"]
 default_abs = [2.000, 1.450, 0.850, 0.440, 0.220, 0.110, 0.055, 0.028, 0.000]
 
